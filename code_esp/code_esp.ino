@@ -2,8 +2,8 @@
 #include <PubSubClient.h>
 #include <stdlib.h>
 
-const char *ssid = "AP-204";
-const char *password = "999094047";
+const char *ssid = "wifi";
+const char *password = "senha";
 
 const char *BROKER_MQTT = "test.mosquitto.org";
 int BROKER_PORT = 1883;
